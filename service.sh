@@ -103,4 +103,4 @@ else
 fi
 echo "$date *🔋电池健康=$BATTERY_HEALTH%*" >>优化.log
 echo "$date *🌡️温控状态=$thermal*" >>优化.log
-X "$date█▓▒▒░░░📱欢迎使用设备性能优化░░░▒▒▓█" "🛠️idyll_自动模式™@idyll™®2018🌿"
+
