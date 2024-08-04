@@ -15,6 +15,8 @@ CPU 集群 2 最大频率: 2803200
 4-7核心离线等
 当然你可以根据自己修改添加
 在/scripts/file/applist_perf.txt 添加需要特定模式运行的软件包名后无需重启
+增加关屏模式为省电调度
+增加特定模式为性能调度
 
 Auto Mode
 Device Optimization:Auto Mode[Specific Mode Bright Screen Mode Off Screen Mode]!!!!
@@ -32,4 +34,7 @@ Off-screen mode:
 4-7 cores offline, etc.
 Of course you can add your own modifications
 In /scripts/file/applist_perf.txt, add the name of the package that needs to run in a specific mode without rebooting.
+
+Add screen off mode for power saving scheduling
+Add specific mode for performance scheduling
 
